@@ -1,5 +1,6 @@
 # isoseq2orf
-Pipeline to convert long-read sequencing data to a representative transcriptome for a cancer type and perform primary sequence characterization of the novel ORFs. The flowchart of the pipeline was shown here:
+Pipeline to convert long-read sequencing data to a representative transcriptome for a cancer type and perform primary sequence characterization of the novel ORFs. The flowchart of the pipeline is shown here:
+
 ![image](pipeline.svg)
 
 `000_ccs2gtf.sh`: This script converted raw data from the Pacbio sequencer to the master transcriptome.
